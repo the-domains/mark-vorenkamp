@@ -1,7 +1,7 @@
 name: Mark Vorenkamp
 favicon: null
-layout_spectrum: 0.22351775574497879
-typography_spectrum: 0.950818725861609
+layout_spectrum: 0.90845
+typography_spectrum: 0.76687
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2b1e16'
     - '#0052b5'
   brandStrength: 0.625
-  lightness: 0.5209168423898518
-  saturation: 0.7473372628446668
-  rhythmicContrast: 0.48581470223143697
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
